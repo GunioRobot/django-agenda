@@ -21,7 +21,7 @@ Current
 ---------
 - Full post-1.0 support, currently used on Django trunk.
 - Kind admin interface with automatic author assignment (Django User).
-- More elegant date_based generic view implementation. Finally you get all the info a decent archive will require. 
+- More elegant date_based generic view implementation. Finally you get all the info a decent archive will require.
 - Demo project with very basic templates.
 - Event archive.
 - Browseable calendar based on Python's calendar module.
@@ -51,5 +51,5 @@ All requirements are currently included in the "deps" directory.
 
 License
 =======
-The django-agenda app is released 
+The django-agenda app is released
 under the GPL version 3.
